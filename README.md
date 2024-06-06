@@ -108,11 +108,11 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 Agradecemos cualquier contribución que pueda mejorar este proyecto.
 
-## Contacto
+## Colaboradores
 
 Si tienes alguna pregunta o sugerencia relacionada con este proyecto, no dudes en contactarnos a través de los siguientes canales:
 
-- LinkedIn: [Enlace]([https://www.example.com](https://www.linkedin.com/in/enriqueforero/))
+- LinkedIn: [Enlace](https://www.linkedin.com/in/enriqueforero/)
 - Este repositorio fue liderado y trabajado en colaboración con Nicolas Rivera Analista de la Coordinación de Analítica de ProColombia
 
 Esperamos que este README te haya proporcionado una descripción detallada del proyecto "Documentos Tres Ejes" y su funcionamiento. Si tienes alguna otra pregunta, no dudes en hacerla. ¡Gracias por tu interés en nuestro proyecto!
